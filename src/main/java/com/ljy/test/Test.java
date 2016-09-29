@@ -6,5 +6,6 @@ package com.ljy.test;
 public class Test {
     public static void main(String args[]){
         System.out.println("Hello LJY,ljy,卢俊义!");
+        System.out.println("Hello ZooKeeper,thrift!");
     }
 }
